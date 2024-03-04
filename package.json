@@ -1,0 +1,17 @@
+{
+  "name": "tokentrendzdeployer",
+  "version": "0.1.1",
+  "main": "deploy.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfarabotz567/tokentrendzdeployer.git"
+  },
+  "dependencies": {
+    "tokentrendz": "^0.1.0",
+    "tokentrendzdeployer": "^0.1.0",
+    "ethers": "^5.4.0"
+  }
+}
